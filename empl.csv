@@ -1,4 +1,4 @@
-SNo,Name,Age,City,Continent,Salary
+SNo,Name,Age,City,Country,Salary
 1,Tom,28,Toronto,Canada,20000
 2,Lee,31,Edmonto,Canada,3900
 3,Dave,34,Toronto,Canada,8000
@@ -17,7 +17,7 @@ SNo,Name,Age,City,Continent,Salary
 17,hari,NaN,newyork,America,67666
 18,yami,27,newyork,America,8888
 19,Lee,31,Edmonto,Canada,NaN
-20,Andrew,Congo,Africa,34432
-21,soham,Angola,Africa,34534
-22,Grig,Finland,Europe,33451
-23,Kiara,London,Europe,Nan
+20,Andrew,34,Congo,Africa,34432
+21,soham,32,Angola,Africa,34534
+22,Grig,26,Finland,Europe,33451
+23,Kiara,27,London,Europe,Nan
